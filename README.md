@@ -25,3 +25,7 @@ Following above criteria, I develop a dashboard in Google Data Studio
 **Dashboard pdf:**
 <iframe src="https://github.com/mdforhadcse/Making-Interactive-Dashboard-Using-Google-Data-Studio/blob/b4020ff293f2638bb67b179a116ed5de47c23c0b/Data%20stduio%20dashboard%20Cookie_Time.pdf" >
 </iframe>
+
+
+<iframe src="https://github.com/mdforhadcse/Making-Interactive-Dashboard-Using-Google-Data-Studio/blob/b4020ff293f2638bb67b179a116ed5de47c23c0b/Data%20stduio%20dashboard%20Cookie_Time.pdf" width="100%" height="500px">
+</iframe>
