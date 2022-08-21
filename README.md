@@ -23,5 +23,5 @@ Following above criteria, I develop a dashboard in Google Data Studio
 <img alt="Data stduio dashboard" src="./Data stduio dashboard Cookie_Time.png" title="Data stduio dashboard"/>
 
 **Dashboard pdf:**
-<iframe src="./Data stduio dashboard Cookie_Time.pdf" >
+<iframe src="https://github.com/mdforhadcse/Making-Interactive-Dashboard-Using-Google-Data-Studio/blob/b4020ff293f2638bb67b179a116ed5de47c23c0b/Data%20stduio%20dashboard%20Cookie_Time.pdf" >
 </iframe>
