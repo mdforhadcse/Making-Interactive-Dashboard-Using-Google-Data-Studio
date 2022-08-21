@@ -1,2 +1,17 @@
 # Making Interactive Dashboard Using Google Data Studio
- I am Making Interactive Dashboard Using Google Data Studio
+<hr>
+In this repo, I will show Making Interactive Dashboard Using Google Data Studio.
+
+ ### Problem statement
+
+I am given sales data of Cookie Time in a Google sheet[[Link](https://docs.google.com/spreadsheets/d/1ifmPN6SC6RSNYKNbGP4gKJS_S_B3okGuKIhV6vLr6Hc/edit#gid=1780704992)]. 
+Make a dashboard from the data provided. 
+
+**The following are the criteria you must fill -**
+- Add at least one filter in the dashboard 
+- The dashboard must be interactive
+- Show Revenue from 2018 to 2019 on a monthly basis using a time series chart 
+- Add a calculated field in Google Data Studio to show profit. This new metric must be formatted as currency ($). 
+- Use a variety of charts and graphs to show your skills.  
+- Draw three major insights from the dashboard. Write them down in the bottom of the dashboard. 
+
