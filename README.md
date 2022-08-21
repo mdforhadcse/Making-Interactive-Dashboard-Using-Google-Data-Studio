@@ -19,6 +19,6 @@ Make a dashboard from the data provided.
 Following above criteria, I develop a dashboard in Google Data Studio
 
 **Dashboard image:**
-![Data stduio dashboard](Data stduio dashboard Cookie_Time.png "Data stduio dashboard")
+![Data stduio dashboard](./Data stduio dashboard Cookie_Time.png "Data stduio dashboard")
 
 <img alt="Data stduio dashboard" src="./Data stduio dashboard Cookie_Time.png" title="Data stduio dashboard"/>
