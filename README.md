@@ -22,3 +22,5 @@ Following above criteria, I develop a dashboard in Google Data Studio
 
 <img alt="Data stduio dashboard" src="./Data stduio dashboard Cookie_Time.png" title="Data stduio dashboard"/>
 
+**Dashboard pdf:**
+xfun::embed_file("Data stduio dashboard Cookie_Time.pdf")
