@@ -23,9 +23,10 @@ Following above criteria, I develop a dashboard in Google Data Studio
 <img alt="Data stduio dashboard" src="./Data stduio dashboard Cookie_Time.png" title="Data stduio dashboard"/>
 
 **Dashboard pdf:**
-<iframe src="https://github.com/mdforhadcse/Making-Interactive-Dashboard-Using-Google-Data-Studio/blob/b4020ff293f2638bb67b179a116ed5de47c23c0b/Data%20stduio%20dashboard%20Cookie_Time.pdf" >
-</iframe>
+
+[Data stduio dashboard Cookie_Time.pdf](https://github.com/mdforhadcse/Making-Interactive-Dashboard-Using-Google-Data-Studio/blob/b4020ff293f2638bb67b179a116ed5de47c23c0b/Data%20stduio%20dashboard%20Cookie_Time.pdf)
 
 
-<iframe src="https://github.com/mdforhadcse/Making-Interactive-Dashboard-Using-Google-Data-Studio/blob/b4020ff293f2638bb67b179a116ed5de47c23c0b/Data%20stduio%20dashboard%20Cookie_Time.pdf" width="100%" height="500px">
-</iframe>
+**Dashboard Link:**
+
+[Link](https://datastudio.google.com/reporting/32e09532-f728-4619-8542-1e9aa44a6e46)
