@@ -15,3 +15,8 @@ Make a dashboard from the data provided.
 - Use a variety of charts and graphs to show your skills.  
 - Draw three major insights from the dashboard. Write them down in the bottom of the dashboard. 
 
+ ### Solution
+Following above criteria, I develop a dashboard in Google Data Studio
+
+**Dashboard image:**
+![](Data stduio dashboard Cookie_Time.png "Data stduio dashboard")
